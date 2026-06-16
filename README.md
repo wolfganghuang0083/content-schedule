@@ -1,5 +1,7 @@
 # content-schedule
 
+> 📖 **手把手 fork + 使用教學（GitHub Pages）**：https://wolfganghuang0083.github.io/content-ops-toolkit/
+
 A reusable **Claude Code / Claude Agent skill** — the **editorial calendar / scheduling** layer for a content map. It scores each drafted article by importance and books it into a CMS publish slot (`future`), then writes the schedule back to the map so every publisher shares one calendar and nothing collides.
 
 > Part of a 4-skill content-ops toolkit:
